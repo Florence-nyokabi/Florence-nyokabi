@@ -15,6 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=Florence-nyokabi&style=compact-square&color=blue" align="center" alt=""/>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?&username=Florence-nyokabi&repo=Florence-nyokabi&theme=highcontrast&show_icons=true&count_private=true)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-nyokabi&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
