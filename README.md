@@ -1,7 +1,7 @@
 # Hello, World!:woman_technologist:
 
 
-<span style="font-family: Nunito, sans-serif; font-size: 25px;">My name is Florence Wangui, and I am a dedicated Software Developer with a strong background in Product Management, UI/UX Design and User Research.
+<span style="font-family: Nunito, sans-serif; font-size: 28px;">My name is Florence Wangui, and I am a dedicated Software Developer with a strong background in Product Management, UI/UX Design and User Research.
 
 One of my recent achievements is a project that supports parents in Kenya who are navigating the Competency-based Curriculum (CBC). The goal is to provide them with easy access to learning resources and boost parental engagement in their children's academics. Through research and product management, I have been working on a solution that enables parents to conveniently access the resources. The project focuses on user experience, providing an intuitive platform for parents to find relevant materials and actively support their children's education within the CBC framework and increasing parental engagement to 100%. This is a significant improvement over the current rate of parental engagement, and it has the potential to make a real difference in the lives of children and families in Kenya.
 
@@ -12,4 +12,4 @@ I am currently seeking opportunities to leverage my skills and experience to mak
 
 
 ##  Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-nyokabi&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-nyokabi&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)
