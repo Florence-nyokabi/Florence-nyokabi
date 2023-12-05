@@ -1,4 +1,4 @@
-# Hello, World!:woman_technologist:
+# Hello, World! :woman_technologist:
 
 
 <span style="font-family: Nunito, sans-serif; font-size: 28px;">My name is Florence Wangui, and I am a dedicated Software Developer with a strong background in Web and Android Development.
