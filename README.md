@@ -14,10 +14,10 @@ I am currently seeking opportunities to leverage my skills and experience to mak
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-nyokabi&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)
 
 
-## My Stack
+## Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,androidstudio,bash,cs,CSS,django,dotnet,eclipse,emacs,figma,firebase,githubactions,heroku,idea,java,js,jest,linux,nginx,npm,postgres,postman,py,react,sentry,ubuntu,visualstudio,vscode	" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,vim,androidstudio,bash,cs,css,django,dotnet,eclipse,emacs,figma,firebase,githubactions,heroku,idea,java,js,jest,linux,nginx,npm,postgres,postman,py,react,sentry,ubuntu,visualstudio,vscode" />
   </a>
 </p>
