@@ -14,7 +14,7 @@ I am currently seeking opportunities to leverage my skills and experience to mak
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florence-nyokabi&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)
 
 
-## Stack
+## My Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
