@@ -16,7 +16,7 @@ I am currently seeking opportunities to leverage my skills and experience to mak
 
 ## Stack
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,c,vim,androidstudio,bash,cs,css,django,dotnet,eclipse,emacs,figma,firebase,githubactions,heroku,idea,java,js,jest,linux,nginx,npm,postgres,postman,py,react,sentry,ubuntu,visualstudio,vscode" />
   </a>
